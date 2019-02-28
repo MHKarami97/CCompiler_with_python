@@ -25,7 +25,7 @@ namespace YaccPrj
         private void run_cmd()
         {
 
-            const string fileName = @"F:\Project\Python\CCompiler_with_python\pp(2).py";
+            const string fileName = @"F:\Project\Python\CCompiler_with_python\main.py";
 
             var p = new Process
             {
